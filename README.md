@@ -29,3 +29,12 @@ To run this project locally on your computer, follow these steps:
 ##Features
 1. Responsive website: can be used in both mobile and desktop
 2. Contact Section: Includes links to my email and social profiles.
+
+##Known Issues and Futures Improvements
+ #Known Issues:
+ - There is no issues identified at this stage.
+
+ # Future Improvements:
+  -Add more projects and case studies.
+  -Implement a contact form with backend functionality.
+  -Add more projects and case studies.
