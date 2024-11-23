@@ -38,3 +38,11 @@ To run this project locally on your computer, follow these steps:
   -Add more projects and case studies.
   -Implement a contact form with backend functionality.
   -Add more projects and case studies.
+--------------------------------------------------------------------------------------------------------
+##Contacts
+Feel free to reach out if you'd like to connect or collaborate with me:
+Email: faithhopechepkemoi@gmail.com
+GitHub: FaithChepkemoi
+LinkedIn: https://www.linkedin.com/in/faith-chepkemoi-b645b8193/
+---------------------------------------------------------------------------------------------------------------
+Thank you for visiting my portfolio! Let me know if you have any suggestions or feedback.
