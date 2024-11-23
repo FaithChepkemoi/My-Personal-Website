@@ -15,3 +15,13 @@ Welcome to my personal portfolio! This project showcases my journey, skills, and
 -CSS- For stying my portfolio
 -------------------------------------------------------------------------
 
+## Setting Up the Project Locally  
+
+To run this project locally on your computer, follow these steps:  
+
+1. **Clone the Repository:**  
+   Use Git to clone this repository.
+2. Navigate to the project Directory using:
+  cd TheFaithfulCoderPortfolio
+3. Open Project in a Browser:
+  - Locate index.html file in your project folder and open it in your browser to view the portfolio.
