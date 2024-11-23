@@ -2,3 +2,16 @@
 
 Welcome to my personal portfolio! This project showcases my journey, skills, and projects as a developer.
 
+##Project Description
+-This is my personal portfolio that describes the following
+  - My background and skills
+  - My projects
+  - My contact information to connect with potential collaborators and recruiters.
+    ---------------------------------------------------------------------------------------------------------
+
+#Tools used
+- This portfolio is built using: 
+- Html- Provides the structure of the website
+-CSS- For stying my portfolio
+-------------------------------------------------------------------------
+
