@@ -25,3 +25,7 @@ To run this project locally on your computer, follow these steps:
   cd TheFaithfulCoderPortfolio
 3. Open Project in a Browser:
   - Locate index.html file in your project folder and open it in your browser to view the portfolio.
+
+##Features
+1. Responsive website: can be used in both mobile and desktop
+2. Contact Section: Includes links to my email and social profiles.
