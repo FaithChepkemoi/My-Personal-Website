@@ -94,3 +94,12 @@ p {
 .project p {
     color: #555;
 }
+/* Contact Section */
+.contact-list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+.contact-list li {
+    margin: 0.5rem 0;
+}
