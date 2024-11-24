@@ -79,3 +79,11 @@ p {
     border-radius: 5px;
     color: #fff;
 }
+/* Project Styles */
+.project {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: 5px;
+}
