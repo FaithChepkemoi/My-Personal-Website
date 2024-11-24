@@ -21,7 +21,7 @@ header {
     list-style: none;
     padding: 0;
 }
-/*Navigation lins styles */
+/*Navigation links styles */
 .navbar li {
     margin: 0 15px;
 }
@@ -29,4 +29,8 @@ header {
     color: #fff;
     text-decoration: none;
     font-size: 1.2rem;
+}
+/*Navigation hover styles */
+.navbar a:hover {
+    color: #ffa500;
 }
