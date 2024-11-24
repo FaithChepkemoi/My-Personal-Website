@@ -46,3 +46,7 @@ h1 {
     margin-bottom: 1rem;
     font-size: 2rem;
 }
+p {
+    margin: 0.5rem 0;
+    color: #555;
+}
