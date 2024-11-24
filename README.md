@@ -26,7 +26,7 @@ To run this project locally on your computer, follow these steps:
 3. Open Project in a Browser:
   - Locate index.html file in your project folder and open it in your browser to view the portfolio.
 
-##Features
+**##Features**
 1. Responsive website: can be used in both mobile and desktop
 2. Contact Section: Includes links to my email and social profiles.
 
@@ -39,8 +39,8 @@ To run this project locally on your computer, follow these steps:
   -Implement a contact form with backend functionality.
   -Add more projects and case studies.
 --------------------------------------------------------------------------------------------------------
-##Contacts
-Feel free to reach out if you'd like to connect or collaborate with me:
+**##Contacts**
+Feel free to reach out if you'd like to connect or colaborate with me:
 Email: faithhopechepkemoi@gmail.com
 GitHub: FaithChepkemoi
 LinkedIn: https://www.linkedin.com/in/faith-chepkemoi-b645b8193/
