@@ -5,10 +5,13 @@ Welcome to my personal portfolio! This project showcases my journey, skills, and
 ## Project Description
 -This is my personal portfolio that describes the following
   - My background and skills
-  - My contact information
   - My projects
-    ---------------------------------------------------------------------------------------------------------
+  - My contact information
 
+
+
+  
+  ---------------------------------------------------------------------------------------------------------
 # Tools used
 - This portfolio is built using: 
 - Html- Provides the structure of the website
