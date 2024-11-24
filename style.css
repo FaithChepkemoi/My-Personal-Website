@@ -87,3 +87,10 @@ p {
     background: #fff;
     border-radius: 5px;
 }
+.project h2 {
+    color: #cd1616;
+}
+
+.project p {
+    color: #555;
+}
