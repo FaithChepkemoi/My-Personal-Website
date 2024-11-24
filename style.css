@@ -21,3 +21,7 @@ header {
     list-style: none;
     padding: 0;
 }
+/*Navigation lins styles */
+.navbar li {
+    margin: 0 15px;
+}
