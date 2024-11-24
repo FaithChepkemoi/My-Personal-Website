@@ -34,3 +34,9 @@ header {
 .navbar a:hover {
     color: #ffa500;
 }
+
+/* Section Styles */
+section {
+    padding: 2rem;
+    text-align: center;
+}
