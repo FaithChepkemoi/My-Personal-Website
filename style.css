@@ -50,6 +50,7 @@ h1 {
 p {
     margin: 0.5rem 0;
     color: #555;
+    text-align: center;
 }
 /* About Me Section */
 .about-container {
@@ -94,6 +95,10 @@ p {
 .project p {
     color: #555;
 }
+.project img{
+    width: 100px;
+    height: 100px;
+}
 /* Contact Section */
 .contact-list {
     list-style: none;
@@ -102,4 +107,11 @@ p {
 }
 .contact-list li {
     margin: 0.5rem 0;
+}
+/* Footer Styles */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
 }
