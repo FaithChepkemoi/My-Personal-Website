@@ -34,15 +34,17 @@ To run this project locally on your computer, follow these steps:
  #Known Issues:
  - There is no issues identified at this stage.
 
- # Future Improvements:
-  -Add more projects and case studies.
-  -Implement a contact form with backend functionality.
-  -Add more projects and case studies.
+### Future Improvements
+- Add more projects and case studies.
+- Implement a contact form with backend functionality.
+- Enhance the design and user experience of the portfolio.
 --------------------------------------------------------------------------------------------------------
-**##Contacts**
-Feel free to reach out if you'd like to connect or colaborate with me:
-Email: faithhopechepkemoi@gmail.com
-GitHub: FaithChepkemoi
-LinkedIn: https://www.linkedin.com/in/faith-chepkemoi-b645b8193/
+### Contacts
+Feel free to reach out if you'd like to connect or collaborate with me:
+- **Email**: [faithhope017@gmail.com](mailto:faithhope017@gmail.com)
+- **GitHub**: [FaithChepkemoi](https://github.com/FaithChepkemoi)
+- **LinkedIn**: [Faith Chepkemoi](https://www.linkedin.com/in/faith-chepkemoi-b645b8193/)
 ---------------------------------------------------------------------------------------------------------------
 Thank you for visiting my portfolio! Let me know if you have any suggestions or feedback.
+
+
