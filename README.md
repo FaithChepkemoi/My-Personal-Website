@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This project showcases my journey, skills, and
 -This is my personal portfolio that describes the following
   - My background and skills
   - My projects
-  -My contact information to connect with potential collaborators and recruiters.
+  - My contact information to connect with potential collaborators and recruiters.
     ---------------------------------------------------------------------------------------------------------
 
 #Tools used
