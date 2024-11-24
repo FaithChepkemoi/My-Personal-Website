@@ -14,3 +14,10 @@ header {
     color: #fff;
     padding: 1rem 0;
 }
+/*Navigation styles */
+.navbar {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
