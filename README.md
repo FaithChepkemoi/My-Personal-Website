@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This project showcases my journey, skills, and projects as a developer.
 
-##Project Description
+## Project Description
 -This is my personal portfolio that describes the following
   - My background and skills
   - My projects
@@ -26,12 +26,12 @@ To run this project locally on your computer, follow these steps:
 3. Open Project in a Browser:
   - Locate index.html file in your project folder and open it in your browser to view the portfolio.
 
-**##Features**
+## Features
 1. Responsive website: can be used in both mobile and desktop
 2. Contact Section: Includes links to my email and social profiles.
 
-##Known Issues and Futures Improvements
- #Known Issues:
+## Known Issues and Futures Improvements
+ # Known Issues:
  - There is no issues identified at this stage.
 
 ### Future Improvements
