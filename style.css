@@ -8,3 +8,9 @@ body {
     color: #383434;
     background-color: #f4f4f4;
 }
+/* Header Styles */
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
