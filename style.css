@@ -40,3 +40,9 @@ section {
     padding: 2rem;
     text-align: center;
 }
+/* Heading 1 Styles */
+h1 {
+    color: #333;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
