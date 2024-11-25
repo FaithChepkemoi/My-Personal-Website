@@ -1,4 +1,4 @@
-# Faith Chepkemoi - TheFaithfulCoder Portfolio
+# Faith Chepkemoi - My-Personal Webiste
 
 Welcome to my personal portfolio! This project showcases my journey, skills, and projects as a developer.
 
